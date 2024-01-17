@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 public class Product {
     double price = 100;
     //getter and setter methods

@@ -1,5 +1,5 @@
 
-package OOPS;
+package oops;
 class Square{
     public int mathFun(int a, int b){
         int area1 = a*b;

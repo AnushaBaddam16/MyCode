@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 abstract class Department {
     int size = 80;
     abstract int getDepartmentSize();
