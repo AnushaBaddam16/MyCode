@@ -1,4 +1,4 @@
-package LoopConditions;
+package loopconditions;
 public class ReverseDigit {
 
     static int reverseDigit(int number){

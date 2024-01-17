@@ -1,4 +1,4 @@
-package LoopConditions;
+package loopconditions;
 public class AgeGroup {
 
     static String getAgeGroup(int age){
