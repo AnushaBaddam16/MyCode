@@ -24,7 +24,7 @@ public class SmallLargeNum {
         SmallLargeNum m=new SmallLargeNum();
         int[] num = {3,17,23,56,65,76,99};
 
-        System.out.println("Minimum Number of array is "+m.SmallNumber(num));
-        System.out.println("Maximum Number of array is "+m.LargeNumber(num));
+        System.out.println("smallest Number of array is "+m.SmallNumber(num));
+        System.out.println("largest  Number of array is "+m.LargeNumber(num));
     }
 }
