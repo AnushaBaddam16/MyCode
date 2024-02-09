@@ -2,7 +2,7 @@ package functionalInterfacestest;
 
 import functionalInterfaces.ArraySum;
 import org.junit.jupiter.api.Test;
-        import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ArraySumTest {
 
